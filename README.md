@@ -62,6 +62,7 @@ Note: A copy of the SQL Query Code can be found in the "SQL Code" folder in the 
 Explanation of Model Choice: Limitations and Benefits
 After testing the cleaned and joined data through the following models, Linear Regression, Logistic Regression, Random Forrest, and Support Vector Machine, the model selected was SK Learn's Linear Regression model. This model was chosen because the output (y_predict) was more acurate, and an actual representation of the N-Butane Vol%, rather than a binary grouping prediction is output. This number based prediction proves more valuable in real-world operations of the process unit in question.
 
+
 SK Learn's train_test_split function was used to split the model into training and testing arrays, using a random state of zero. The model testing performance, when used to predict the X_test split, was quite robust though not perfect. The group had an opportunity to showcase the linear regression model's output to the company's process unit subject matter expert, who was quite pleased with the performace.
 
 Project Summary: Analysis Output Performance

@@ -7,7 +7,6 @@ Eva Hawkins
 Anna Day
 John Arney
 
-
 Project Purpose
 
 

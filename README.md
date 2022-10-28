@@ -61,6 +61,7 @@ The merged project_data table was exorted to a Pandas DataFrame using pd.sql_rea
 
 Note: A copy of the SQL Query Code can be found in the "SQL Code" folder in the Main Branch -- Note: A copy of the pythod code that exported the SQL table can be found in the "SQL Extact" filer in the Main Branch. -- Note: A copy of the final model and unselected models can be found in the "Final Models" folder in the Main Branch
 
+
 Explanation of Model Choice: Limitations and Benefits
 After testing the cleaned and joined data through the following models, Linear Regression, Logistic Regression, Random Forrest, and Support Vector Machine, the model selected was SK Learn's Linear Regression model. This model was chosen because the output (y_predict) was more acurate, and an actual representation of the N-Butane Vol%, rather than a binary grouping prediction is output. This number based prediction proves more valuable in real-world operations of the process unit in question.
 

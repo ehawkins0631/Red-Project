@@ -9,7 +9,6 @@ John Arney
 
 Project Purpose
 
-
 Utilize plant data from multiple unit assets to develop machine learning methods to predict "live" volume percentage of N-Butane build up in Tower A recycle line to Reactor.
 
 
